@@ -14,6 +14,7 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 .env
+.devcontainer
 ..devcontainer/
 .devcontainer/
 devcontainer/
@@ -21,3 +22,4 @@ devcontainer/
 .app/
 app/
 /app
+app
