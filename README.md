@@ -4,6 +4,8 @@
 
 webservice api using go language
 
+this project using air as live-reload in dev environment 
+
 dblist
 1. postgres (complete w/o orm)
 2. mysql (not start yet)
