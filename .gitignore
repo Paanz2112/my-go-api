@@ -15,4 +15,9 @@
 # vendor/
 .env
 ..devcontainer/
+.devcontainer/
+devcontainer/
+/.devcontainer
 .app/
+app/
+/app
